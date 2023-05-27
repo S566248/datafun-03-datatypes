@@ -25,19 +25,19 @@ list_calls = ["heads", "tails"]
 list_rps = ["rock", "paper", "scissors"]
 
 # Define a list of colors
-list_colors = ["red", "green", "blue", "yellow", "orange", "purple"]
+list_colors = ["red", "green", "blue", "yellow", "orange", "purple", "gold"]
 
 # Define a list of nouns
-list_nouns = ["dog", "cat", "mouse", "bird", "fish", "snake"]
+list_nouns = ["dog", "cat", "mouse", "bird", "fish", "snake", "bug"]
 
 # Define a list of verbs
-list_verbs = ["runs", "jumps", "swims", "flies", "crawls", "studies"]
+list_verbs = ["runs", "jumps", "swims", "flies", "crawls", "studies", "scurries"]
 
 # Define a list of adjectives
-list_adjectives = ["happy", "sad", "angry", "scared", "confused", "bored"]
+list_adjectives = ["happy", "sad", "angry", "scared", "confused", "bored", "excited"]
 
 # Define a list of adverbs
-list_adverbs = ["quickly", "slowly", "happily", "sadly", "angrily", "scaredly"]
+list_adverbs = ["quickly", "slowly", "happily", "sadly", "angrily", "scaredly", "emphatically"]
 
 
 def process_text_woodchuck():
