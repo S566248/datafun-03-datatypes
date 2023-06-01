@@ -1,0 +1,22 @@
+2023-05-26 23:45:04,166 =============================================================
+2023-05-26 23:45:04,167 =============================================================
+2023-05-26 23:45:04,168 Today is 2023-05-26 at 11:45 PM
+2023-05-26 23:45:04,168 This file is running on: nt Windows 10
+2023-05-26 23:45:04,168 The Python version is: 3.11.3
+2023-05-26 23:45:04,169 The active conda environment is:  None
+2023-05-26 23:45:04,170 The active pip environment is:    None
+2023-05-26 23:45:04,170 The active environment path is:   C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0
+2023-05-26 23:45:04,170 The current working directory is: C:\Users\Mikayla Rietgraf\datafun-03-datatypes\datafun-03-datatypes
+2023-05-26 23:45:04,170 This source file is in:           C:\Users\Mikayla Rietgraf\datafun-03-datatypes\datafun-03-datatypes
+2023-05-26 23:45:04,170 =============================================================
+2023-05-26 23:45:04,170 =============================================================
+2023-05-26 23:45:04,348 Calling functions from main block
+2023-05-26 23:45:04,348 Calling create_random_sentence()
+2023-05-26 23:45:04,349 Random sentence: The fifth place runner trained rarely.
+2023-05-26 23:45:04,349 Calling create_random_sentence()
+2023-05-26 23:45:04,350 Random sentence: The forth place gymnist rested consistently.
+2023-05-26 23:45:04,350 Calling process_text_betty()
+2023-05-26 23:45:04,352 The list of words is: ['Betty', 'bought', 'butter', 'but', 'the', 'butter', 'was', 'bitter,', 'so', 'Betty', 'bought', 'better', 'butter', 'to', 'make', 'the', 'bitter', 'butter', 'better']
+2023-05-26 23:45:04,353 There are 19 words in the file.
+2023-05-26 23:45:04,353 The set of unique words is: {'bitter', 'make', 'Betty', 'the', 'was', 'but', 'so', 'better', 'bitter,', 'bought', 'to', 'butter'}
+2023-05-26 23:45:04,353 There are 12 unique words in the file.

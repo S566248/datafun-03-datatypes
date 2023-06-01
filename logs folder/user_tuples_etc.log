@@ -1,0 +1,31 @@
+2023-05-26 23:44:49,498 =============================================================
+2023-05-26 23:44:49,500 =============================================================
+2023-05-26 23:44:49,502 Today is 2023-05-26 at 11:44 PM
+2023-05-26 23:44:49,502 This file is running on: nt Windows 10
+2023-05-26 23:44:49,505 The Python version is: 3.11.3
+2023-05-26 23:44:49,506 The active conda environment is:  None
+2023-05-26 23:44:49,506 The active pip environment is:    None
+2023-05-26 23:44:49,506 The active environment path is:   C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0
+2023-05-26 23:44:49,507 The current working directory is: C:\Users\Mikayla Rietgraf\datafun-03-datatypes\datafun-03-datatypes
+2023-05-26 23:44:49,507 This source file is in:           C:\Users\Mikayla Rietgraf\datafun-03-datatypes\datafun-03-datatypes
+2023-05-26 23:44:49,507 =============================================================
+2023-05-26 23:44:49,508 =============================================================
+2023-05-26 23:44:49,508 Calling functions from main block
+2023-05-26 23:44:49,509 tupleA = (45, 34, 75, 34, 84)
+2023-05-26 23:44:49,509 tupleB = (73, 15, 26, 52, 95)
+2023-05-26 23:44:49,510 tupleA = (45, 34, 75, 34, 84)
+2023-05-26 23:44:49,512 tupleB = (73, 15, 26, 52, 95)
+2023-05-26 23:44:49,512 tupleAB = (45, 34, 75, 34, 84, 73, 15, 26, 52, 95)
+2023-05-26 23:44:49,512 tupleAAA = (45, 34, 75, 34, 84, 45, 34, 75, 34, 84, 45, 34, 75, 34, 84)
+2023-05-26 23:44:49,513 setA = {34, 84, 22, 75, 45}
+2023-05-26 23:44:49,513 setB = {52, 73, 26, 95, 15}
+2023-05-26 23:44:49,514 listAlphabetNoDuplicates = [{'delta', 'beta', 'gamma', 'alpha', 'epsilon', 'zeta'}]
+2023-05-26 23:44:49,514 setC = {34, 73, 75, 45, 15, 84, 52, 22, 26, 95}
+2023-05-26 23:44:49,530 setD = set()
+2023-05-26 23:44:49,530 setE = {34, 75, 45, 84, 22}
+2023-05-26 23:44:49,531 movieA_dict = {'name': 'Quantumania', 'date': '2/17/23', 'Rotten_Tomatoes': 47}
+2023-05-26 23:44:49,531 movieB_dict = {'name': 'The Super Mario Bros Movie', 'date': '4/5/2023', 'Rotten_Tomatoes': 59}
+2023-05-26 23:44:49,531 assessment_dict = {'low': 0, 'medium': 1, 'high': 2}
+2023-05-26 23:44:49,532 data_dict = {'name': ['Alice', 'Bob', 'Charlie', 'David'], 'age': [25, 30, 35, 40], 'income': [50000, 60000, 70000, 80000]}
+2023-05-26 23:44:49,532 Given text_simple.txt, the word_counts_dict = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
+2023-05-26 23:44:49,533 the the word_counts_dict2 = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}

@@ -1,0 +1,24 @@
+2023-05-26 20:18:40,548 =============================================================
+2023-05-26 20:18:40,549 =============================================================
+2023-05-26 20:18:40,550 Today is 2023-05-26 at 08:18 PM
+2023-05-26 20:18:40,550 This file is running on: nt Windows 10
+2023-05-26 20:18:40,550 The Python version is: 3.11.3
+2023-05-26 20:18:40,551 The active conda environment is:  None
+2023-05-26 20:18:40,552 The active pip environment is:    None
+2023-05-26 20:18:40,552 The active environment path is:   C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0
+2023-05-26 20:18:40,552 The current working directory is: C:\Users\Mikayla Rietgraf\datafun-03-datatypes\datafun-03-datatypes
+2023-05-26 20:18:40,553 This source file is in:           C:\Users\Mikayla Rietgraf\datafun-03-datatypes\datafun-03-datatypes
+2023-05-26 20:18:40,553 =============================================================
+2023-05-26 20:18:40,553 =============================================================
+2023-05-26 20:18:40,554 Calling functions from main block
+2023-05-26 20:18:40,554 Calling process_text_woodchuck()
+2023-05-26 20:18:40,597 The list of words is: ['How', 'much', 'wood', 'would', 'a', 'woodchuck', 'chuck', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood?', 'He', 'would', 'chuck,', 'he', 'would,', 'as', 'much', 'as', 'he', 'could,', 'and', 'chuck', 'as', 'much', 'wood', 'as', 'a', 'woodchuck', 'would', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood.']
+2023-05-26 20:18:40,597 There are 38 words in the file.
+2023-05-26 20:18:40,598 The set of unique words is: {'chuck', 'if', 'as', 'wood', 'he', 'could,', 'He', 'a', 'chuck,', 'could', 'and', 'wood.', 'wood?', 'woodchuck', 'would', 'How', 'much', 'would,'}
+2023-05-26 20:18:40,598 There are 18 unique words in the file.
+2023-05-26 20:18:40,598 Calling create_random_sentence()
+2023-05-26 20:18:40,599 Random sentence: The happy cat jumps happily.
+2023-05-26 20:18:40,599 Calling create_random_sentence()
+2023-05-26 20:18:40,600 Random sentence: The confused bug studies angrily.
+2023-05-26 20:18:40,600 Calling play_game()
+2023-05-26 20:18:40,600 ready_for_continous_game = True
